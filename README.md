@@ -1,4 +1,4 @@
 # tekrarEdenDiziKarakterleri
 tekrar eden dizi karakterleri
 # Düzenleyen
-## Adem SAKA
+* Adem SAKA
